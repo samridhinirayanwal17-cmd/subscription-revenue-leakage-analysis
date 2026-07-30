@@ -1,4 +1,7 @@
 # subscription-revenue-leakage-analysis
+## Dashboard
+
+![Dashboard Screenshot](Subscription_Revenue_Data_Dashboard_SS.png)
 
 
 ## Problem
